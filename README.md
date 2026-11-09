@@ -6,12 +6,12 @@ I compare **8** algorithms to do benchmark at speed comparaison beetween Python 
 |-----------|------|--------|--------|
 | Bubble sort |      |        |        | 
 | Inseration sort |      |        |        |
-| Selection sort | `0.003` | 0.06 | ~ x20 |
-| Dichotomic algorithm | `0.004` | 0.048 | ~ x10 |
+| Selection sort | `0.003s` | 0.06s | ~ x20 |
+| Dichotomic algorithm | `0.004s` | 0.048s | ~ x10 |
 | Hair comb sort |      |        |        |
 | Coktail sort |      |        |        |
 | Hanoi algorithm |      |        |        |
-| Odd-even sort |      |        |        |
+| Odd-even sort | `0.007s` |  0.078s | ~ x10 |
 
 <br>
 
