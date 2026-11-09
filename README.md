@@ -6,7 +6,7 @@ I compare **8** algorithms to do benchmark at speed comparaison beetween Python 
 |-----------|------|--------|--------|
 | Bubble sort |      |        |        | 
 | Inseration sort |      |        |        |
-| Selection sort |      |        |        |
+| Selection sort | `0.003` | 0.06 | ~ x20 |
 | Dichotomic algorithm | `0.004` | 0.048 | ~ x10 |
 | Hair comb sort |      |        |        |
 | Coktail sort |      |        |        |
@@ -15,7 +15,7 @@ I compare **8** algorithms to do benchmark at speed comparaison beetween Python 
 
 <br>
 
-> **Warning**: this time are calculated on Apple M5 Macbook Pro (10 CPU, 10 GPU) (pretty good computer), the result might change with your configuration
+> **Warning**: this time are calculated on Apple M5 Macbook Pro (10 CPU, 10 GPU) (pretty good computer), the result might change with your configuration, and it was calculate **1 time**
 
 <br>
 
