@@ -7,7 +7,7 @@ I compare **8** algorithms to do benchmark at speed comparaison beetween Python 
 | Bubble sort |      |        |        | 
 | Inseration sort |      |        |        |
 | Selection sort |      |        |        |
-| Dichomotic algorithm |      |        | 
+| Dichotomic algorithm | `0.004` | 0.048 | ~ x10 |
 | Hair comb sort |      |        |        |
 | Coktail sort |      |        |        |
 | Hanoi algorithm |      |        |        |
