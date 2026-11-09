@@ -4,7 +4,7 @@ I compare **8** algorithms to do benchmark at speed comparaison beetween Python 
 
 | Algorithm | <img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0f/Original_Ferris.svg/960px-Original_Ferris.svg.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail" width=40> | <img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/3840px-Python-logo-notext.svg.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail" width=30> | Difference |
 |-----------|------|--------|--------|
-| Bubble sort |      |        |        | 
+| Bubble sort | `0.005s` | 0.02s | ~ x4 | 
 | Inseration sort |      |        |        |
 | Selection sort | `0.003s` | 0.06s | ~ x20 |
 | Dichotomic algorithm | `0.004s` | 0.048s | ~ x10 |
