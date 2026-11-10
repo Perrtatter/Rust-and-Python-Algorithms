@@ -10,7 +10,7 @@ I compare **8** algorithms to do benchmark at speed comparaison beetween Python 
 | Dichotomic algorithm | `0.004s` | 0.048s | ~ x10 |
 | Comb sort | `0.004s` |  0.04s | ~ x10 |
 | Coktail sort | `0.005s` | 0.048s | ~ x10 |
-| Hanoi algorithm |      |        |        |
+| Hanoi algorithm | `0.003s` |   0.03s | ~ x10 |
 | Odd-even sort | `0.007s` |  0.078s | ~ x10 |
 
 <br>
